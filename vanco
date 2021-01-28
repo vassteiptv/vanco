@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia A1",------|Yugoslavia|------
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="Yugoslavija A1",|EXYU| SPORTKLUB HD
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: CINEMAX 1" tvg-logo="" group-title="(no group)",EX YU: CINEMAX 1
 http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/1975
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX YU: CINEMAX-2" tvg-logo="" group-title="(no group)",EX YU: CINEMAX-2
@@ -230,7 +230,7 @@ http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2081
 http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/2082
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU: Sport Klub 2" tvg-logo="" group-title="(no group)",EX-YU: Sport Klub 2
 http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/20830/test87/wefrew32/59226
-#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="BULGARIA TV",------|Yugoslavia|------
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="BULGARIA TV",|EXYU| SPORTKLUB HD
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Discovery Channel" tvg-logo="" group-title="(no group)",BG: Discovery Channel
 http://stream1.tvs24.net:25461/Runyo_Rudolf3__/rHDEwdy6/5561
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BG: Diema TV" tvg-logo="" group-title="(no group)",BG: Diema TV
