@@ -396,6 +396,8 @@ http://mytv.fun:8080/kemal100/fkcjkrj77/13393
 http://mytv.fun:8080/kemal100/fkcjkrj77/674115
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport Klub 3 SI" tvg-logo="http://pici.life/Ex-Yu%20Countries/sportklub3hdexyu.png" group-title="Slovenia",Sport Klub 3 SI
 http://mytv.fun:8080/kemal100/fkcjkrj77/674117
+#EXTINF:-1 tvg-id="" tvg-name="------|Yugoslavia|------" tvg-logo="" group-title="Yugoslavia A1",------|Yugoslavia|------
+http://meu02.cularu.com:8880/test76/rew4f6464/49326
 #EXTINF:-1 ,|EXYU| PINK HD
 http://185.71.64.167:80/1569802583/8829358497/85346
 #EXTINF:-1 ,|EXYU| PINK
