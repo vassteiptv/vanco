@@ -3646,3 +3646,19 @@ http://mytv.fun:8080/kemal100/fkcjkrj77/13276
 http://mytv.fun:8080/kemal100/fkcjkrj77/13274
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4 Sport HD HU" tvg-logo="http://pici.life/HU/M4_sport.png" group-title="Hungary",M4 Sport HD HU
 http://mytv.fun:8080/kemal100/fkcjkrj77/13273
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [Florida] VIP HD US" tvg-logo="" group-title="VIP",Fox Sports [Florida] VIP HD US
+http://mytv.fun:8080/kemal100/fkcjkrj77/18938
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Sportstime [OHIO] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports Sportstime [OHIO] HD VIP US
+http://mytv.fun:8080/kemal100/fkcjkrj77/18945
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports [South] HD VIP US
+http://mytv.fun:8080/kemal100/fkcjkrj77/650574
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South East] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports [South East] HD VIP US
+http://mytv.fun:8080/kemal100/fkcjkrj77/18943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [South West] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports [South West] HD VIP US
+http://mytv.fun:8080/kemal100/fkcjkrj77/18942
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Sun HD VIP US" tvg-logo="" group-title="VIP",Fox Sports Sun HD VIP US
+http://mytv.fun:8080/kemal100/fkcjkrj77/18937
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports [West] HD VIP US" tvg-logo="" group-title="VIP",Fox Sports [West] HD VIP US
+http://mytv.fun:8080/kemal100/fkcjkrj77/18940
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Wisconsin HD VIP US" tvg-logo="" group-title="VIP",Fox Sports Wisconsin HD VIP US
+http://mytv.fun:8080/kemal100/fkcjkrj77/18939
