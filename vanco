@@ -1,5 +1,4 @@
 #EXTM3U url-tvg=""
-#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 1  HD" tvg-logo="" group-title="EX-YU A1",Arena Sport 1  HD
 http://tv.rebeliptv.com:83/live/123456/987654/143033.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Sport 2  HD" tvg-logo="" group-title="EX-YU A1",Arena Sport 2  HD
