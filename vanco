@@ -1,4 +1,421 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:  RTS 1" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:  RTS 1
+http://verstalb.net:80/simba/simba/46105
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Prva TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Prva TV
+http://verstalb.net:80/simba/simba/46107
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: TV Palma Plus Jagodina" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: TV Palma Plus Jagodina
+http://verstalb.net:80/simba/simba/46143
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: VIP Ex_Yu: KCN 2" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: VIP Ex_Yu: KCN 2
+http://verstalb.net:80/simba/simba/46206
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Prva Kick" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Prva Kick
+http://verstalb.net:80/simba/simba/46108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Prva Max" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Prva Max
+http://verstalb.net:80/simba/simba/46109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Prva Files" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Prva Files
+http://verstalb.net:80/simba/simba/46118
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: RTRS Plus" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: RTRS Plus
+http://verstalb.net:80/simba/simba/46106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Nova M" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Nova M
+http://verstalb.net:80/simba/simba/46110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Studio B" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Studio B
+http://verstalb.net:80/simba/simba/46114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: RTS Kolo" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: RTS Kolo
+http://verstalb.net:80/simba/simba/46119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: RT Vojvodina 2" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: RT Vojvodina 2
+http://verstalb.net:80/simba/simba/46121
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: TV Sarajevo" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: TV Sarajevo
+http://verstalb.net:80/simba/simba/46142
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: NOVA" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: NOVA
+http://verstalb.net:80/simba/simba/46159
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: BN Televizija" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: BN Televizija
+http://verstalb.net:80/simba/simba/46152
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Alternativna TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Alternativna TV
+http://verstalb.net:80/simba/simba/46153
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Federalna TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Federalna TV
+http://verstalb.net:80/simba/simba/46150
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: RTCG Sat" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: RTCG Sat
+http://verstalb.net:80/simba/simba/46154
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: RTCG 1" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: RTCG 1
+http://verstalb.net:80/simba/simba/46156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: RTCG 2" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: RTCG 2
+http://verstalb.net:80/simba/simba/46155
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="========== PINK // EX-YU TOTAL TV ==========" tvg-logo="" group-title="EX-YU TOTAL TV",========== PINK // EX-YU TOTAL TV ==========
+http://verstalb.net:80/simba/simba/46027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink 1" tvg-logo="http://klikpink.rs/uploads/channels/428f73ab5fbfb7af0c0565cd6eb30e55.png" group-title="EX-YU TOTAL TV",Ex_Yu: Pink 1
+http://verstalb.net:80/simba/simba/45952
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink 2" tvg-logo="http://link.iptvlogin.com:6565/images/770d6962b24519d63ea3baafcf95f759.png" group-title="EX-YU TOTAL TV",Ex_Yu: Pink 2
+http://verstalb.net:80/simba/simba/45953
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink 3 Info" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhITEhAQEBAWEBAXEhUQFxUVEBISFhYWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGC0lHyArLS0tLS0rLS0tLS0uLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzctLS0tLf/AABEIALQBGAMBEQACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink 3 Info
+http://verstalb.net:80/simba/simba/45954
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Hits 1" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Hits 1
+http://verstalb.net:80/simba/simba/46215
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Action" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYsAAAB/CAMAAAApSh4CAAABqlBMVEX////tOZTi4+Xb3eKFjpt0f5L///x5iJR1gI52fpJzgJCHjZ1zgY7i4+dwgZD//v/aTZRue4ynrLT0Ophrdojn6eztNpL2MJT51eHvjbjvLJGDe5Sztr76///sOZN+IlF+f5H3vtc9R0VWXVyRJV30osUAAACmT3vkQJfgSZKCe4/tk77kNZ" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Action
+http://verstalb.net:80/simba/simba/45955
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Music 1" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYEAAACDCAMAAABcOFepAAABjFBMVEX///+goKDFxcWwsLC7u7urq6u/v7+2trbMzMysrKympqbJycnBwcH5+fnz8/Ojo6PV1dXg4ODq6urZ2dnr6+vk5OSWlpabm5uMjIyEhISQkJBzc3OIiIh7e3toaGj/Kph3d3dubm7/PaFgYGBERET/JZY0NDRVVVVjY2NLS0v/F4//QKJHR0" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Music 1
+http://verstalb.net:80/simba/simba/46217
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Comedy" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAB4CAMAAACKGXbnAAAAwFBMVEX///+mqKfdLZOjpaT8///aAInsi8HcII7kSqTcJ5H64O//+/3f4OD+9PrtlMXiVKXqfbnEw8OqrKv09PTfNZjzutnz8/PtqtCmrajQdaXqTqbo6Oj2xuDywdnn5+fV1dWytLO7vLvMzczS0tLvocz97/flX6v40ef52ev85/PumMf41ujzsN" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Comedy
+http://verstalb.net:80/simba/simba/45956
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Crime & Mystery" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUSExMWFRUXGB8ZGBgYGR8dGhgYHRoaGBoXGxgdHSggGBolHRgaITEhJSktLi4uGB8zODMtNygtLisBCgoKDg0OGRAQFyslHyUtLS0rKy0tLSsvKzEtLS0uLS8rLSstLS8tLS0tLS0tKystLS0tLS0tLS0tLTUtLTctLf/AABEIAHUBrgMBIgACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Crime & Mystery
+http://verstalb.net:80/simba/simba/45957
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Film" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEhMQEBIREA8QEhIYFRAQDhIPERYWFRIXGBcRFRcYHCgiGBonGxMWIzEhJTUrLi4uFx8zODMwNygtLisBCgoKDg0OGxAQGiwlICAtMi0rLS0tLS0tLS8tLS0tLSstLS0tLS0tKy0rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAK8BIQMBEQACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Film
+http://verstalb.net:80/simba/simba/45958
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Pink World Cinema" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Pink World Cinema
+http://verstalb.net:80/simba/simba/46099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Pink Movies" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Pink Movies
+http://verstalb.net:80/simba/simba/46097
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Pink Fashion" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Pink Fashion
+http://verstalb.net:80/simba/simba/46103
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Hits 2" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Hits 2
+http://verstalb.net:80/simba/simba/46216
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Horror" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISERUTExMWFRUXFRgZFxgYFx8cGBcYGhgYGBcaFxYYHSggHholHhgXIjEhJSkrLi4uGh8zODMtNygtLy4BCgoKDg0OGxAQGyslICUrLjUvNS0vKysvKzItLS0tLSstKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMsA+AMBIgACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Horror
+http://verstalb.net:80/simba/simba/45959
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Pink SciFi & Fantasy" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Pink SciFi & Fantasy
+http://verstalb.net:80/simba/simba/46098
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Premium" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxATEBARERASFhUVExIWExcSGBcWFhUSGBUXFhgXFxgYHSggGh0nGxUXITEhJi0rLjMvGh8zPjMuNygtLisBCgoKDg0OGhAPGi0lHx03LSstLS0tLS0tLS8vLS8tLS0tLS0tLSstLy0rKy0tKy0tLS0tLS0uMC0tKy0tLS0vLf/AABEIAJABXgMBIgACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Premium
+http://verstalb.net:80/simba/simba/45960
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Serije" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxATEBUPEBIVEBEQFRYYFRYQFRcVFxUVFRgYFxUWFRYYKCghGRolHRUXITEhJSkrLi4uFx8zODMuNyotLiwBCgoKDg0OGxAQGy0gICUtKy0vKy8uKy0tLS0tKystLS0rLy83LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAGQB9wMBEQACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Serije
+http://verstalb.net:80/simba/simba/45961
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Pink BiH" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Pink BiH
+http://verstalb.net:80/simba/simba/46100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU Pink Thriller" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaoAAAB2CAMAAACu2ickAAACClBMVEX///+NEGgpAh0AAAAyAySGeoKIAGEXAAAcAAtBBS+ID2Q1AybFm7WgmZ2GD2Pl4+R9DlwgABGaFW4+BS0SAABpC01GBjPQys5qC07e5+m8I395DVm2r7PgMZC4faTOKoeXFGyiGHJoW2Pn7vBaCUK+h6vDJYLz6/BVCD6nmqILAAC3IHxNBz" group-title="EX-YU TOTAL TV",EX-YU Pink Thriller
+http://verstalb.net:80/simba/simba/45962
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: VIP Ex_Yu: Pink Koncert" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: VIP Ex_Yu: Pink Koncert
+http://verstalb.net:80/simba/simba/46203
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Pink Plus" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Pink Plus
+http://verstalb.net:80/simba/simba/46102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Western" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUUEhIVFhUXGBgYGRUWFRcVFRYZFxgYGBkXFhUYHSggGBolGxoXITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGxAQGi0lICUtLS0tLS0tLS0tLS0tLS0tLS0vLS0tLSstLS0tLS0tLS0vLS0tLS0tKy0tLS0tNS0tLf/AABEIAJoBRwMBIgACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Western
+http://verstalb.net:80/simba/simba/45963
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Pink HaHa" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Pink HaHa
+http://verstalb.net:80/simba/simba/46104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Music 2" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYEAAACDCAMAAABcOFepAAABjFBMVEX///+goKDFxcWwsLC7u7urq6u/v7+2trbMzMysrKympqbJycnBwcH5+fnz8/Ojo6PV1dXg4ODq6urZ2dnr6+vk5OSWlpabm5uMjIyEhISQkJBzc3OIiIh7e3toaGj/Kph3d3dubm7/PaFgYGBERET/JZY0NDRVVVVjY2NLS0v/F4//QKJHR0" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Music 2
+http://verstalb.net:80/simba/simba/46218
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink classic" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhURExIWFRIXGBgbGBgXGBoZHxsZHx4YGB0YHxsdHyghGBslHhgZITEiJyktLy4uIB8zODMtNyotLisBCgoKDg0OGhAQGy0lICUwLS0vLS0tLS0vLy81LTUtMS0tLS0tLS0tLSstLS0tLS0tLS0rLS0uLy0tLS0rLS0tLf/AABEIAKgBLAMBIgACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink classic
+http://verstalb.net:80/simba/simba/45964
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Extra" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhMTEhIWFRUWFRUWFRgWGRgXFRUWFRUYFhcVFhcaHiggGBolGxUVITEhJSkrLi4uGB8zODMtNygtLisBCgoKDg0OGhAQGy0lICUtLS0tLS0uKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLy0tLf/AABEIAJsBRAMBEQACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Extra
+http://verstalb.net:80/simba/simba/45965
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink World" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink World
+http://verstalb.net:80/simba/simba/45966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Soap" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Soap
+http://verstalb.net:80/simba/simba/45967
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Pink Style" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Pink Style
+http://verstalb.net:80/simba/simba/46101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Show" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Show
+http://verstalb.net:80/simba/simba/45968
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink HAHA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink HAHA
+http://verstalb.net:80/simba/simba/45969
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Kuvar" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Kuvar
+http://verstalb.net:80/simba/simba/45970
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Zabava" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Zabava
+http://verstalb.net:80/simba/simba/45971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink LOL" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Pink LOL
+http://verstalb.net:80/simba/simba/45972
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Folk 1" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQkAAACaCAMAAACNM00PAAACKFBMVEX////LOY/JAIYAAAD47UHgki9PT08mABl0vvDjoTJlHEfkpjNos+2+5PmGyfKJy/Kq2/fF5/lrt+355/F4wfD4/P6w3vfTL5yo2veCx/LK6fpxrtTvzzvw0zzy2T1MFTXtyjqYK2vz3z7swznlrDT25kDz3j7inTHqvjcuLzDotDXotzaCna" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Folk 1
+http://verstalb.net:80/simba/simba/45973
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Folk 2" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATAAAACmCAMAAABqbSMrAAACWFBMVEX////LOY/JAIYAAAD47UF0vvDLN5DPOpLJL4v++fzgki/FcKzFN4uJy/L8/v/F5/n88vjfkbt4AE+t3Pdrt+1os+3Z2dl2wPB0IFJ/xPEAFQvZ7Pqv3fftyTq+NYbkpTN6u+RMDDIeM0D04j80MjGhwtTy2j3qvjfZUKrI6/uu5Pz67PT47E" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Folk 2
+http://verstalb.net:80/simba/simba/45974
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Pedia" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhMTEhMVFRUTGBcVFhUVGBUXFxUXGBUWFhYYGBUYHSggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGy0lICUvLS0tLS0tLS0rLS0tLS0tLS0tNy0rLS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAIUBfAMBEQACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Pedia
+http://verstalb.net:80/simba/simba/45975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Reality" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTEhMVFRUWFxoXGBgWGBUXFhYVGhUWFxcYGhcYHSggGB0lGxcWITEhJSkrLi4uFx8zODMwNygtLisBCgoKDg0OGxAQGy0fHyUvLSsrLS0vKy0tLS8vLS0tKystLTUyLSstLS0rNy0tLS8tLS0tKy0tLS0tKy8uLS0uLf/AABEIAKoBKAMBIgACEQEDEQH/x" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Reality
+http://verstalb.net:80/simba/simba/45976
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Pink Romance" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVwAAACRCAMAAAC4yfDAAAABxVBMVEX////r6+uNEGjeMI/HJ4TYLoymGnScFm/r7ey9I3+QEWnVLYvRK4mwHnmxHnnBJYH47vXfKY3pdrChGHKHAF/4+Pjt8u/z8/Pe5+np7/GHAF6XFG2LAGXd5efup8nOobzcpMJHRT+bAGrLlrQ1ACD79fnp3OPl3M21iG+BAFbZo8Hp4+fOpc" group-title="EX-YU TOTAL TV",Ex_Yu: Pink Romance
+http://verstalb.net:80/simba/simba/45977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: HBO 2" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: HBO 2
+http://verstalb.net:80/simba/simba/46028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: HBO 3" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: HBO 3
+http://verstalb.net:80/simba/simba/46029
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: DIVA" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: DIVA
+http://verstalb.net:80/simba/simba/46030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Fox" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Fox
+http://verstalb.net:80/simba/simba/46031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Fox Life" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Fox Life
+http://verstalb.net:80/simba/simba/46032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: CineStar Premiere 2" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: CineStar Premiere 2
+http://verstalb.net:80/simba/simba/46033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Cinemax" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Cinemax
+http://verstalb.net:80/simba/simba/46034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Cinemax 2" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Cinemax 2
+http://verstalb.net:80/simba/simba/46035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Cinestar TV" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Cinestar TV
+http://verstalb.net:80/simba/simba/46036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="==== MUZICKI-GLAZBENI KANALI // EX-YU TOTAL TV ====" tvg-logo="" group-title="EX-YU TOTAL TV",==== MUZICKI-GLAZBENI KANALI // EX-YU TOTAL TV ====
+http://verstalb.net:80/simba/simba/46037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: BN MUSIC" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: BN MUSIC
+http://verstalb.net:80/simba/simba/46219
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: VIP Ex_Yu: IDJ TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: VIP Ex_Yu: IDJ TV
+http://verstalb.net:80/simba/simba/46204
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: Play TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: Play TV
+http://verstalb.net:80/simba/simba/46201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: Kafanska TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: Kafanska TV
+http://verstalb.net:80/simba/simba/46202
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Balkanika (MUSIC)" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Balkanika (MUSIC)
+http://verstalb.net:80/simba/simba/46221
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: VIP Ex_Yu: Hayat Music" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: VIP Ex_Yu: Hayat Music
+http://verstalb.net:80/simba/simba/46222
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: Hayat Folk" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: Hayat Folk
+http://verstalb.net:80/simba/simba/46208
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: CMC" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: CMC
+http://verstalb.net:80/simba/simba/46038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: DM SAT" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: DM SAT
+http://verstalb.net:80/simba/simba/46039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: GRAND TV Narodna" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: GRAND TV Narodna
+http://verstalb.net:80/simba/simba/46040
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Grand TV 2" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Grand TV 2
+http://verstalb.net:80/simba/simba/46041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: VIP Ex_Yu: YU Planet" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: VIP Ex_Yu: YU Planet
+http://verstalb.net:80/simba/simba/46212
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: KCN 1" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: KCN 1
+http://verstalb.net:80/simba/simba/46042
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: KCN 2" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: KCN 2
+http://verstalb.net:80/simba/simba/46043
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: KCN 3" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: KCN 3
+http://verstalb.net:80/simba/simba/46044
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Jugoton" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Jugoton
+http://verstalb.net:80/simba/simba/46045
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Izvorna TV" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Izvorna TV
+http://verstalb.net:80/simba/simba/46046
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: OTV Valentino" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: OTV Valentino
+http://verstalb.net:80/simba/simba/46047
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="==== DJECIJI KANALI // EX-YU ====" tvg-logo="" group-title="EX-YU TOTAL TV",==== DJECIJI KANALI // EX-YU ====
+http://verstalb.net:80/simba/simba/46048
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: NICKELODEON" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: NICKELODEON
+http://verstalb.net:80/simba/simba/46049
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: NICK JUNIOR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: NICK JUNIOR
+http://verstalb.net:80/simba/simba/46050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: HAYATOVCI" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: HAYATOVCI
+http://verstalb.net:80/simba/simba/46051
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: BABY TV" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: BABY TV
+http://verstalb.net:80/simba/simba/46052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU Pikaboo" tvg-logo="" group-title="EX-YU TOTAL TV",EX-YU Pikaboo
+http://verstalb.net:80/simba/simba/46053
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Discovery" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Discovery
+http://verstalb.net:80/simba/simba/46055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Nat Geo Wild" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Nat Geo Wild
+http://verstalb.net:80/simba/simba/46056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: 24 Kitchen" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: 24 Kitchen
+http://verstalb.net:80/simba/simba/46057
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Lov i ribolov" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Lov i ribolov
+http://verstalb.net:80/simba/simba/46058
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: History h2" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: History h2
+http://verstalb.net:80/simba/simba/46059
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="==== SPORTKI KANALI // EX-YU ====" tvg-logo="" group-title="EX-YU TOTAL TV",==== SPORTKI KANALI // EX-YU ====
+http://verstalb.net:80/simba/simba/46060
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: ARENA SPORT 1 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: ARENA SPORT 1 HR
+http://verstalb.net:80/simba/simba/46061
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: ARENA SPORT 2 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: ARENA SPORT 2 HR
+http://verstalb.net:80/simba/simba/46062
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: ARENA SPORT 5 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: ARENA SPORT 5 HR
+http://verstalb.net:80/simba/simba/46063
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: ARENA SPORT 1 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: ARENA SPORT 1 SRB
+http://verstalb.net:80/simba/simba/46064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: ARENA SPORT 2 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: ARENA SPORT 2 SRB
+http://verstalb.net:80/simba/simba/46065
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: ARENA SPORT 3 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: ARENA SPORT 3 SRB
+http://verstalb.net:80/simba/simba/46066
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: ARENA SPORT 4 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: ARENA SPORT 4 SRB
+http://verstalb.net:80/simba/simba/46067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: ARENA SPORT 5 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: ARENA SPORT 5 SRB
+http://verstalb.net:80/simba/simba/46068
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 1 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 1 HR
+http://verstalb.net:80/simba/simba/46069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 2 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 2 HR
+http://verstalb.net:80/simba/simba/46070
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 3 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 3 HR
+http://verstalb.net:80/simba/simba/46071
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 4 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 4 HR
+http://verstalb.net:80/simba/simba/46072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 5 HR" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 5 HR
+http://verstalb.net:80/simba/simba/46073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 1 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 1 SRB
+http://verstalb.net:80/simba/simba/46074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 2 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 2 SRB
+http://verstalb.net:80/simba/simba/46075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 3 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 3 SRB
+http://verstalb.net:80/simba/simba/46076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 4 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 4 SRB
+http://verstalb.net:80/simba/simba/46077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: SPORT KLUB 5 SRB" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: SPORT KLUB 5 SRB
+http://verstalb.net:80/simba/simba/46078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Planet Sport 1" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Planet Sport 1
+http://verstalb.net:80/simba/simba/46079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Planet Sport 2" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Planet Sport 2
+http://verstalb.net:80/simba/simba/46080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: Planet Sport 3" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: Planet Sport 3
+http://verstalb.net:80/simba/simba/46081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU Planet Sport 5" tvg-logo="" group-title="EX-YU TOTAL TV",EX-YU Planet Sport 5
+http://verstalb.net:80/simba/simba/46082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EX-YU Moja TV Premijer Liga" tvg-logo="" group-title="EX-YU TOTAL TV",EX-YU Moja TV Premijer Liga
+http://verstalb.net:80/simba/simba/46083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="==== FILM& KOLAZNI // EX-YU TOTAL TV ====" tvg-logo="" group-title="EX-YU TOTAL TV",==== FILM& KOLAZNI // EX-YU TOTAL TV ====
+http://verstalb.net:80/simba/simba/46054
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: PickBox TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: PickBox TV
+http://verstalb.net:80/simba/simba/46111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: SOS Kanal" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: SOS Kanal
+http://verstalb.net:80/simba/simba/46112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: TLC" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: TLC
+http://verstalb.net:80/simba/simba/46113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: SciFi" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: SciFi
+http://verstalb.net:80/simba/simba/46115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Duga TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Duga TV
+http://verstalb.net:80/simba/simba/46116
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: E!  Enteriament" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: E!  Enteriament
+http://verstalb.net:80/simba/simba/46117
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: AMC" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: AMC
+http://verstalb.net:80/simba/simba/46120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Zadruga 1 Live" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Zadruga 1 Live
+http://verstalb.net:80/simba/simba/46122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: TV Parovi 24/7" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: TV Parovi 24/7
+http://verstalb.net:80/simba/simba/46123
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Parovi Live 24/7" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Parovi Live 24/7
+http://verstalb.net:80/simba/simba/46124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Sitel- Reserve" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Sitel- Reserve
+http://verstalb.net:80/simba/simba/46125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Telma" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Telma
+http://verstalb.net:80/simba/simba/46126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: 24 Vesti" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: 24 Vesti
+http://verstalb.net:80/simba/simba/46127
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Shutel" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Shutel
+http://verstalb.net:80/simba/simba/46128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Nasa TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Nasa TV
+http://verstalb.net:80/simba/simba/46129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: TV Sonce" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: TV Sonce
+http://verstalb.net:80/simba/simba/46130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Dobra  Makedonska" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Dobra  Makedonska
+http://verstalb.net:80/simba/simba/46131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Kanal 21" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Kanal 21
+http://verstalb.net:80/simba/simba/46132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: TV Kumanovo" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: TV Kumanovo
+http://verstalb.net:80/simba/simba/46133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Makedonska TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Makedonska TV
+http://verstalb.net:80/simba/simba/46134
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: ALSAT M" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: ALSAT M
+http://verstalb.net:80/simba/simba/46135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: EDO" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: EDO
+http://verstalb.net:80/simba/simba/46136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: ERA" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: ERA
+http://verstalb.net:80/simba/simba/46137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: MTM Skopska" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: MTM Skopska
+http://verstalb.net:80/simba/simba/46138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Hugo" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Hugo
+http://verstalb.net:80/simba/simba/46139
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Hugo 2" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Hugo 2
+http://verstalb.net:80/simba/simba/46140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: USK" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: USK
+http://verstalb.net:80/simba/simba/46141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: O Kanal" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: O Kanal
+http://verstalb.net:80/simba/simba/46144
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: RTV Zenica" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: RTV Zenica
+http://verstalb.net:80/simba/simba/46145
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Posavina TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Posavina TV
+http://verstalb.net:80/simba/simba/46146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Novi Pazar" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Novi Pazar
+http://verstalb.net:80/simba/simba/46147
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Moj Kanal" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Moj Kanal
+http://verstalb.net:80/simba/simba/46148
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Glas Drine" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Glas Drine
+http://verstalb.net:80/simba/simba/46149
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: HBo Go" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: HBo Go
+http://verstalb.net:80/simba/simba/46151
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: TV Vijesti" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: TV Vijesti
+http://verstalb.net:80/simba/simba/46157
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: HRT international" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: HRT international
+http://verstalb.net:80/simba/simba/46158
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: FOX Crime" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: FOX Crime
+http://verstalb.net:80/simba/simba/46160
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: FOX Movies" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: FOX Movies
+http://verstalb.net:80/simba/simba/46161
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Fox Business" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Fox Business
+http://verstalb.net:80/simba/simba/46162
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Trend TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Trend TV
+http://verstalb.net:80/simba/simba/46163
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Slavonska Televizija" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Slavonska Televizija
+http://verstalb.net:80/simba/simba/46164
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Kino TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Kino TV
+http://verstalb.net:80/simba/simba/46165
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Cinestar Premiere 1" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Cinestar Premiere 1
+http://verstalb.net:80/simba/simba/46166
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Cinestar Action" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Cinestar Action
+http://verstalb.net:80/simba/simba/46167
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Cinestar Fantasy" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Cinestar Fantasy
+http://verstalb.net:80/simba/simba/46168
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:  M1 Film" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:  M1 Film
+http://verstalb.net:80/simba/simba/46169
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: M1 Gold" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: M1 Gold
+http://verstalb.net:80/simba/simba/46170
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: AXN Spin" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: AXN Spin
+http://verstalb.net:80/simba/simba/46171
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: TV 1000" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: TV 1000
+http://verstalb.net:80/simba/simba/46172
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: AXN" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: AXN
+http://verstalb.net:80/simba/simba/46173
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: AXN Spin" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: AXN Spin
+http://verstalb.net:80/simba/simba/46174
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Klasik TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Klasik TV
+http://verstalb.net:80/simba/simba/46175
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Filmbox Extra" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Filmbox Extra
+http://verstalb.net:80/simba/simba/46176
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Filmbox Plus" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Filmbox Plus
+http://verstalb.net:80/simba/simba/46177
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Cineplex" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Cineplex
+http://verstalb.net:80/simba/simba/46178
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Max Select 1" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Max Select 1
+http://verstalb.net:80/simba/simba/46179
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Max Select 2" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Max Select 2
+http://verstalb.net:80/simba/simba/46180
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Max Select 3" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Max Select 3
+http://verstalb.net:80/simba/simba/46181
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Max Select 4" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Max Select 4
+http://verstalb.net:80/simba/simba/46182
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Max Select 5" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Max Select 5
+http://verstalb.net:80/simba/simba/46183
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Max Select 6" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Max Select 6
+http://verstalb.net:80/simba/simba/46184
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Max Select 7" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Max Select 7
+http://verstalb.net:80/simba/simba/46185
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Max Select 8" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Max Select 8
+http://verstalb.net:80/simba/simba/46186
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: National Geographic" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: National Geographic
+http://verstalb.net:80/simba/simba/46187
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: ID Xtra" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: ID Xtra
+http://verstalb.net:80/simba/simba/46188
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Crime & Investigation" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Crime & Investigation
+http://verstalb.net:80/simba/simba/46189
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: CBS Reality" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: CBS Reality
+http://verstalb.net:80/simba/simba/46190
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: DocuBox" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: DocuBox
+http://verstalb.net:80/simba/simba/46191
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Discovery Science" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Discovery Science
+http://verstalb.net:80/simba/simba/46192
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Animal Planet" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Animal Planet
+http://verstalb.net:80/simba/simba/46193
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: H2" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: H2
+http://verstalb.net:80/simba/simba/46194
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Viasat Explore" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Viasat Explore
+http://verstalb.net:80/simba/simba/46195
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Viasat History" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Viasat History
+http://verstalb.net:80/simba/simba/46196
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Viasat Nature" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Viasat Nature
+http://verstalb.net:80/simba/simba/46197
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: BBC Earth" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: BBC Earth
+http://verstalb.net:80/simba/simba/46198
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Da Vinci Learning" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Da Vinci Learning
+http://verstalb.net:80/simba/simba/46199
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: Travel Channel" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: Travel Channel
+http://verstalb.net:80/simba/simba/46200
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: VIP Ex_Yu: TOP Sound" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: VIP Ex_Yu: TOP Sound
+http://verstalb.net:80/simba/simba/46205
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: VIP Ex_Yu: Sevdah TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: VIP Ex_Yu: Sevdah TV
+http://verstalb.net:80/simba/simba/46207
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: VIP Ex_Yu: Sandzak TV" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: VIP Ex_Yu: Sandzak TV
+http://verstalb.net:80/simba/simba/46209
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: TV Sehara" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: TV Sehara
+http://verstalb.net:80/simba/simba/46210
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu:: RO: Taraf" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu:: RO: Taraf
+http://verstalb.net:80/simba/simba/46211
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Ex_Yu: RTV Herceg Bosne" tvg-logo="" group-title="EX-YU TOTAL TV",VIP Ex_Yu: RTV Herceg Bosne
+http://verstalb.net:80/simba/simba/46213
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ex_Yu: MTV Igman" tvg-logo="" group-title="EX-YU TOTAL TV",Ex_Yu: MTV Igman
+http://verstalb.net:80/simba/simba/46220
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-chno="26" tvg-id="(no tvg-id)" tvg-name="Ex-Yu: FACE TV" tvg-logo="" group-title="EX-YU TELEKOM",Ex-Yu: FACE TV
 http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/127
 #EXTINF:-1 tvg-chno="12" tvg-id="(no tvg-id)" tvg-name="Ex-Yu: B 92" tvg-logo="" group-title="EX-YU TELEKOM",Ex-Yu: B 92
